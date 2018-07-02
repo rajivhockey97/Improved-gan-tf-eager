@@ -7,7 +7,4 @@ The model is unstable and is sensitive to initialization and hyper-parameters.
 
 Work to be done:
 
-Virtual batch normalization
-Historical averaging of gradients
-Multi-gpu run
-Incepttion score and FID
+Virtual batch normalization, Historical averaging of gradients, Multi-gpu run, Incepttion score and FID
